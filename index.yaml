@@ -237,9 +237,9 @@ entries:
   endpoint-copier-operator:
   - apiVersion: v2
     appVersion: v0.2.2
-    created: "2025-03-05T19:59:08.270444595-05:00"
+    created: "2025-03-05T21:29:03.940392536-05:00"
     description: A Helm chart for Kubernetes
-    digest: e291f968a13343aa6deaa942aed2a5fe8d6c0784ccbbcf7ae90246820e5433e7
+    digest: 1925d80f3eb67017399d8ad88107bfbf4b36f9be34585bf086b02c72e7852267
     name: endpoint-copier-operator
     type: application
     urls:
